@@ -13,3 +13,4 @@ def func(str):
 				return "False"
 print func(str)
 								
+#############################wangshch01@gmail.com###################################
