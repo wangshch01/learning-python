@@ -1,0 +1,10 @@
+a=['a','b','c','d','a','d','a','c']
+d = {}
+for k in a:
+    for v in k:
+        if v in d:
+            d[v] += 1
+        else:
+            d[v] = 1
+        
+print d
